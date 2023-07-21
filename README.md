@@ -1,4 +1,4 @@
-# sugam-krishi
+# sugam-krishi-frontend
 A Full Stack Development project
 • A web-application for farmers which includes Agriculture Policies,
 Schemes, News, Weather Forecast, Crop Recommendation and Crop
